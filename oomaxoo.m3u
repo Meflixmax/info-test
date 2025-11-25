@@ -1,0 +1,56 @@
+#EXTM3U
+
+
+ช่อง 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX1
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
+
+
+ช่อง 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX2
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
+
+ช่อง 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX3
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX3.m3u8
+
+ช่อง 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX4
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX4.m3u8
+
+ช่อง 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX5
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX5.m3u8
+
+ช่อง 6 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX6
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX6.m3u8
+
+
+ช่อง 7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX7
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX7.m3u8
+
+ช่อง 8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX8
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
+
+
+ช่อง 9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX9
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX9.m3u8
+
+
+ช่อง 10
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000067485.png" group-title="MONOMAX Github",MAX10
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX10.m3u8
