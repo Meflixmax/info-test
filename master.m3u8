@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Thai",DEFAULT=YES,AUTOSELECT=YES,URI="https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/vd/oh/n251225ad1z6mkvo4qor43pz90xbohvd-1-1a1301000022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1766799465&gen=playurlv2&os=akam&oi=765074013&trid=ea4576e3a9f5478fb7324b72604fa7d5i&mid=0&platform=pc&upsig=439f4421d8955f034e81c959fdf67917&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1766799465~hmac=a22efb8f57585fd8fb25f2e1f0c2d7826b927fd7cb2ee04397a02c5e8d43f19c&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0"
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
+https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/vd/oh/n251225ad1z6mkvo4qor43pz90xbohvd-1-111210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1766799465&gen=playurlv2&os=akam&oi=765074013&trid=ea4576e3a9f5478fb7324b72604fa7d5i&mid=0&platform=pc&upsig=5b64ef6e03ffd3e268c7802263484bc8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1766799465~hmac=a56ead367f6075e9edc6ff54c31da621958f00af444c3172afe5181dd1e6e3dd&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0
